@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Ram",
+    "rollNumber": 101,
+    "age": 20
+  },
+  {
+    "name": "Sanjay",
+    "rollNumber": 102,
+    "age": 21
+  },
+  {
+    "name": "Rakesh",
+    "rollNumber": 103,
+    "age": 22
+  },
+  {
+    "name": "Raju",
+    "rollNumber": 104,
+    "age": 25
+  },
+  {
+    "name": "Shyam",
+    "rollNumber": 105,
+    "age": 26
+  },
+  {
+    "name": "Baburav",
+    "rollNumber": 106,
+    "age": 27
+  },
+  {
+    "name": "Deepak",
+    "rollNumber": 107,
+    "age": 28
+  },
+  {
+    "name": "Ashavin",
+    "rollNumber": 108,
+    "age": 29
+  }
+]
